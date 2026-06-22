@@ -1,4 +1,4 @@
-
+I am Priyanhu Salvi
 I’m currently working on<br>A Golf Charity Platform (React/Tailwind) and a Marathi Voice AI Assistant (Python/Flask).<br><br>I’m looking to collaborate on<br>Open-source Voice AI agents and high-performance full-stack applications.<br><br> I’m looking for help with<br>Optimizing latency and streamlining deployments via NVIDIA-hosted model endpoints.<br><br> I’m currently learning<br>Advanced AI systems architecture and full-stack engineering.<br><br> Ask me about<br>React, Node.js, Tailwind, Python, and integrating LLMs like DeepSeek.<br><br> Fun fact<br>I can solve a 2x2 Rubik's Cube and love messing around with creative AI video effects!
 
 
